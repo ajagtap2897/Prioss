@@ -1,0 +1,14 @@
+{
+  "username": "userexample345798hwe4",
+  "email": "testdata@example.com",
+  "country": "DE",
+  "createdFromFacebook": false,
+  "facebookUid": null,
+  "birthdate": "2000-01-01",
+  "gender": "male",
+  "postalCode": null,
+  "mobileNumber": null,
+  "mobileOperator": null,
+  "mobileBrand": null,
+  "creationTime": "2018-01-01"
+}
